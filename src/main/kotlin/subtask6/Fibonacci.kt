@@ -21,6 +21,5 @@ class Fibonacci {
         } else {
             newArray2
         }
-
     }
 }
